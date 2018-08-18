@@ -1,0 +1,9 @@
+*.vs
+/Debug/*
+/x64/*
+/x86/*
+/Release/*
+/MemoryAccessTest/Debug/*
+/MemoryAccessTest/Release/*
+/MemoryAccessTest/x86/*
+/MemoryAccessTest/x64/*
